@@ -1,6 +1,6 @@
 
 class FileDuplicate:
-
+    f = None
     fileName = None
     filePath = None
     fileList = []
