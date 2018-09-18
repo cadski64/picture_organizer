@@ -1,5 +1,5 @@
 
-# Class:    FileInfo
+# Class :    FileInfo
 # Created:  12/19/2016
 # Author:   Curtisd
 # Purpose:  Encapsulate file information in a single class
